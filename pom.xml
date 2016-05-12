@@ -26,7 +26,7 @@
         <version>0.5.0</version>
     </parent>
 
-    <groupId>com.stratio.receiver</groupId>
+    <groupId>com.github.szdavid92</groupId>
     <artifactId>spark-rabbitmq</artifactId>
     <version>0.3.0-SNAPSHOT</version>
     <packaging>pom</packaging>
@@ -36,7 +36,7 @@
         <module>spark-rabbitmq_1.5</module>
     </modules>
 
-    <url>https://github.com/Stratio/RabbitMQ-Receiver</url>
+    <url>https://github.com/szdavid92/Spark-RabbitMQ</url>
     <name>Spark Streaming RabbitMQ Receiver</name>
 
     <description>
@@ -44,9 +44,9 @@
     </description>
 
     <scm>
-        <url>https://github.com/Stratio/RabbitMQ-Receiver.git</url>
-        <connection>scm:git:git://github.com/Stratio/RabbitMQ-Receiver.git</connection>
-        <developerConnection>scm:git:git@github.com:Stratio/RabbitMQ-Receiver.git</developerConnection>
+        <url>https://github.com/szdavid92/Spark-RabbitMQ.git</url>
+        <connection>scm:git:git://github.com/szdavid92/Spark-RabbitMQ.git</connection>
+        <developerConnection>scm:git:git@github.com:szdavid92/Spark-RabbitMQ.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
